@@ -1,8 +1,8 @@
 ## CRC implementation (CSE-2019) Ain-Shams University
 
 **How to use:**
-- download the files from the repository.
-- open each file through the terminal and pass the args as stdin as follow.
+- Download the source code files from the (CRC Algorithm)[https://github.com/AbdelrhmanMagdy/CSE-Networks/tree/master/CRC_Algorithm].
+- Run your function from the terminal using *pytho3 "your finction"* and follow the function manual.
 
 ### Samples:
 **Example:**
@@ -17,7 +17,7 @@ $ python3 generator.py 1101011111 10011
  -> 11010111110010
  -> 10011
 ```
-***Verifier:**
+**Verifier:**
 ```
 $ python3 verifier.py 
  -> args: packet g
