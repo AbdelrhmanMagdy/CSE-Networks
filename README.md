@@ -1,7 +1,7 @@
 ## CRC implementation (CSE-2019) Ain-Shams University
 
 **How to use:**
-- Download the source code files from the (CRC Algorithm)[https://github.com/AbdelrhmanMagdy/CSE-Networks/tree/master/CRC_Algorithm].
+- Download the source code files from the [CRC Algorithm](https://github.com/AbdelrhmanMagdy/CSE-Networks/tree/master/CRC_Algorithm).
 - Run your function from the terminal using *pytho3 "your finction"* and follow the function manual.
 
 ### Samples:
