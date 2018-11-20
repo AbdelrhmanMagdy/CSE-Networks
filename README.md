@@ -6,7 +6,7 @@
 
 ### Samples:
 **Example:**
-![alt crc example](https://github.com/AbdelrhmanMagdy/CSE-Networks/examples/crc.png)
+![alt crc example](https://github.com/AbdelrhmanMagdy/CSE-Networks/Examples/crc.png)
 **Generator:**
 ```
 $ python3 generator.py
