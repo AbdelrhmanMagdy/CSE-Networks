@@ -7,7 +7,7 @@
 ### Samples:
 **Example:**
 
-![alt crc example](https://github.com/AbdelrhmanMagdy/CSE-Networks/Examples/crc.png)
+![alt crc example](https://github.com/AbdelrhmanMagdy/CSE-Networks/blob/master/Examples/crc.png)
 
 **Generator:**
 ```
